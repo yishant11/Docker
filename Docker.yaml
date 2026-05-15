@@ -1,0 +1,6 @@
+services:
+  img:
+    build: .
+    container_name: nodejs-mongodb
+    ports:
+      - 5600:5600
