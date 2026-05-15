@@ -117,6 +117,11 @@ docker pull ishant9140/docker-test:latest
 docker run -p 5600:5600 ishant9140/docker-test:latest
 ```
 
+**View the full repository and profile:**
+
+- 🐳 **Docker Hub Profile:** [ishant9140 on Docker Hub](https://hub.docker.com/u/ishant9140)
+- 📦 **Docker Test Repository:** [ishant9140/docker-test](https://hub.docker.com/r/ishant9140/docker-test)
+
 ## Environment Setup
 
 ### Development with Live Reload
